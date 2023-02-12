@@ -1,2 +1,2 @@
 # odin_test
-Odin gothub beginning
+Odin github beginning
